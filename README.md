@@ -28,9 +28,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <h2>Configuration Steps</h2>
-
 <p>
-<img src=(https://github.com/TIm-the-IT-dad/osticket-post-installation/blob/main/Logged%20into%20our%20Azure%20VM%20using%20Remote%20Desktop%20and%20logged%20into%20admin%20and%20local%20host%20users%20using%20different%20URLs%20(Step-1).PNG>
+<img src="![image](https://github.com/user-attachments/assets/964f5cec-e0bc-4349-9885-bf061d7c9ef1)
+" height="80%" width="80%" alt="Logged into our Azure VM using Remote Desktop and logged into admin and local host users using different URLs (Step-1)"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
