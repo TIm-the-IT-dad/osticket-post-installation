@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-
+![image](https://github.com/TIm-the-IT-dad/osticket-post-installation/blob/main/Logged%20into%20our%20Azure%20VM%20using%20Remote%20Desktop%20and%20logged%20into%20admin%20and%20local%20host%20users%20using%20different%20URLs%20(Step-1).PNG?raw=true)
 
 
 
